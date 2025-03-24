@@ -9,7 +9,7 @@ It is the last tool from a set created for ROM hacking (any file in reality). Th
 
 Raylib was not entirely needed in this project, but I wanted to use its helper functionalities
 
-All these projects were developed to better learn Zig and raylib
+All these projects were developed to better learn Zig and raylib, while fulfilling some nostalgia from the early 2000's
 
 ## Building
 
