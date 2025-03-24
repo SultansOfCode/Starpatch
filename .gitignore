@@ -2,3 +2,4 @@
 zig-out
 resources/*.gbc
 resources/*_patch*
+resources/*_unpatch*
