@@ -54,3 +54,17 @@ It will create the `original file` with all patches contained in `patch file` un
 ## Examples
 
 You can check the [`run.bat`](https://github.com/SultansOfCode/Starpatch/blob/main/run.bat), [`resources/bigger.txt`](https://github.com/SultansOfCode/Starpatch/blob/main/resources/bigger.txt) and [`resources/smaller.txt`](https://github.com/SultansOfCode/Starpatch/blob/main/resources/smaller.txt) to see how it works and in action
+
+### Thanks
+
+People from [Twitch](https://twitch.tv/SultansOfCode) for watching me and supporting me while developing it
+
+All of my [LivePix](https://livepix.gg/sultansofcode) donators
+
+---
+
+### Sources and licenses
+
+raylib - [Source](https://github.com/raysan5/raylib) - [Zlib license](https://github.com/raysan5/raylib?tab=Zlib-1-ov-file)
+
+Zig - [Source](https://github.com/ziglang/zig) - [MIT license](https://github.com/ziglang/zig?tab=MIT-1-ov-file)
